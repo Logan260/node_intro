@@ -1,0 +1,22 @@
+{
+  "name": "node_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logan260/node_intro.git"
+  },
+  "author": "Logan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logan260/node_intro/issues"
+  },
+  "homepage": "https://github.com/Logan260/node_intro#readme",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
